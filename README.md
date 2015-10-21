@@ -2,6 +2,8 @@
 
 [W3C CSS Module 仕様書もくもく会@東京 - connpass](http://tokyo-css-module-specs.connpass.com/)
 
+[![tokyocssspecs Slack](https://img.shields.io/badge/slack-tokyocssspecs-blue.svg?style=flat)](https://tokyocssspecs.herokuapp.com/)
+
 ## 概要
 
 W3C の CSS Module 仕様書 (基本は日本語訳) を集まって読み合い、気づいたことや分からない点を共有する会です。
